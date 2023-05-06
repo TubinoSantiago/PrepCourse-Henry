@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prueba módulo 2 - Henry
+Santiago, proyecto de prueba para crear repositorio y clonarlo desde github a mi pc
